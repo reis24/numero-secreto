@@ -5,4 +5,6 @@
 
 
 <h2> Tecnologias utilizadas </h2>
-<p> HTML, CSS e JAVASCRIPT </p>
+<p> ***HTML
+***CSS
+***JAVASCRIPT </p>
